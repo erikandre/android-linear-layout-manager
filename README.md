@@ -34,3 +34,4 @@ Library is distributed under Apache 2.0 license, see LICENSE.txt
 The following applications use this library:
 * [Sample app](https://oss.sonatype.org/content/repositories/releases/org/solovyev/android/views/linear-layout-manager-app/)
 * [Say it right!](https://play.google.com/store/apps/details?id=org.solovyev.android.dictionary.forvo)
+* [Badoo](https://play.google.com/store/apps/details?id=com.badoo.mobile)
